@@ -1,0 +1,13 @@
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\bin\Debug\CriptoLock.exe.config
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\bin\Debug\CriptoLock.exe
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\bin\Debug\CriptoLock.pdb
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.csprojResolveAssemblyReference.cache
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.Properties.Resources.resources
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.csproj.GenerateResource.Cache
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.exe
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.pdb
+c:\users\iosif chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.CryptoLock.resources
+C:\Users\Iosif Chesca\documents\visual studio 2013\Projects\CriptoLock\CriptoLock\obj\Debug\CriptoLock.Proprietati.resources
+H:\CriptoLock\CriptoLock\bin\Debug\CriptoLock.exe.config
+H:\CriptoLock\CriptoLock\obj\Debug\CriptoLock.exe
+H:\CriptoLock\CriptoLock\obj\Debug\CriptoLock.pdb
